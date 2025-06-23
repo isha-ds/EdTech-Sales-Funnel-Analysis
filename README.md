@@ -14,7 +14,7 @@ Key inefficiencies identified:
 📊 Certain Team Leaders consistently underperform, leading to missed conversion opportunities and poor ROI.
 
 📸 Screenshot for Reference:
-👉 View Dashboard Insights (Replace this with your actual link)
+👉 View Dashboard Insights (edtechperformancedashboard.png)
 
 🎯 Objective
 To identify the key factors that drive revenue generation by analyzing:
