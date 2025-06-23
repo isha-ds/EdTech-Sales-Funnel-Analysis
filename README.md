@@ -1,52 +1,31 @@
-🚀 Sales Funnel Optimization in EdTech
-📈 Uncovering revenue drivers and drop-off patterns across Lead Owner cohorts
+# **EdTech Sales Funnel Analytics**
 
-❗ Problem Overview
-Despite a large inflow of leads, 🚫 40% of Lead Owners generate no revenue, signaling a major performance gap.
-Key inefficiencies identified:
-
-🕒 Delayed contact attempts — Non-Revenue Generating (Non-RG) Lead Owners take over 24 hours, vs just 3 hours by Revenue Generating (RG) owners.
-
-🎯 Demo leakage — Only 50% of booked demos are completed.
-
-📉 53% drop-off at Main Stage due to non-contact, particularly among Non-RG owners.
-
-📊 Certain Team Leaders consistently underperform, leading to missed conversion opportunities and poor ROI.
-
-📸 Screenshot for Reference:
-<h3 align="center">📸 Dashboard Screenshot</h3>
+<h3 align="center"> </h3>
 <p align="center">
   <img src="edtechperformancedashboard.png" alt="EdTech Performance Dashboard" width="700"/>
 </p>
 
+## 🚨 **Problem :**
 
-🎯 Objective
-To identify the key factors that drive revenue generation by analyzing:
+Despite a high volume of incoming leads, **40% of Lead Owners are not generating any revenue**, indicating a serious performance gap. A major issue lies in **delayed response times** — Non-Revenue Generating (Non-RG) Lead Owners take over **24 hours** to attempt contact, compared to just **3 hours** for Revenue Generating (RG) ones. Additionally, only **50% of booked demos are completed**, highlighting a key funnel leak. The **Main Stage sees a 53% drop-off** due to non-contact, especially for Non-RG owners. **Specific Team Leaders show consistent underperformance**. This inefficiency results in lost conversion opportunities and poor ROI on lead generation efforts.
 
-🧠 Lead Owner behaviors
+## 🎯 **Objective :**
 
-🔄 Funnel progression
+To identify what drives **revenue success among Lead Owners** by analyzing contact behavior, funnel progression, and conversion efficiency.
+The goal is to highlight performance gaps, reduce drop-offs, and recommend targeted improvements to
+**boost revenue generation** and **optimize sales engagement** across the funnel.
 
-⚡ Conversion efficiency
+## 🛠️ **Approach :**
 
-This project aims to reduce drop-offs, boost engagement, and maximize revenue potential by bridging performance gaps.
+1. Segmented Revenue Generating vs. Non-Revenue Generating Agent cohorts
+2. Analyzed funnel drop-offs and Turnaround Time (TAT)
+3. Assessed agent-level performance
+4. Reviewed call engagement, talk time, and demo outcomes
+5. Geo and segment performance review
 
-🛠️ Approach
-🔍 Cohort Segmentation: RG vs. Non-RG Lead Owners
+## ✅ **Outcome :**
 
-📊 Funnel Drop-off & TAT Analysis: Tracked delays and key leak points
-
-👤 Agent Performance Deep Dive: Talk time, contact timing, and demo outcomes
-
-🗺️ Geo & Grade-Level Analysis: Identified high-performing segments (e.g., Delhi, Class 10)
-
-📞 Call Strategy Review: Engagement efficiency via timing, scripts, and channels
-
-✅ Key Outcomes
-⚡ RG agents connect 2× faster, convert 88% of demos, and drive ₹4.5M from just 0.8% of leads
-
-❌ Non-RG agents show 53% drop-off due to late response and poor follow-up
-
-🏆 Delhi + Class 10 segment shines with highest conversions
-
-🚩 Underperforming Team Leaders flagged for coaching and review
+1. **Revenue Generating agents:** 2x faster contact, 88% demo conversion, ₹4.5M revenue from 0.8% leads
+2. **Non-Revenue Generating:** 53% drop-off due to non-contact, long TATs, poor follow-up
+3. **Delhi + Class 10** show best conversions
+4. Key TLs identified for performance review
